@@ -1,0 +1,6 @@
+images/
+registered_faces.json
+__pycache__/
+*.pyc
+venv/
+.venv/
